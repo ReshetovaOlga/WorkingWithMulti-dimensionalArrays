@@ -1,0 +1,3 @@
+C:/Users/elen_/CLionProjects/WorkingWithMulti-dimensionalArrays/cmake-build-debug/CMakeFiles/WorkingWithMulti_dimensionalArrays.dir
+C:/Users/elen_/CLionProjects/WorkingWithMulti-dimensionalArrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/elen_/CLionProjects/WorkingWithMulti-dimensionalArrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
